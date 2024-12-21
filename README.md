@@ -1,42 +1,35 @@
-<h1>Hi, I'm Kami! <br/><a href="https://github.com/KBudge">Programmer</a>, <a href="https://www.linkedin.com/in/Kami-Budge/">Computer Science Graduate</a></h1>
+<h1>Hello, I'm Kami Budge!  <br/></h1>
+  <h2><a >Aspiring Database Specialist | Data Analytics & Machine Learning Enthusiast | Computer Science Graduate</a></h2>
+  
+  <h2><a href="https://www.linkedin.com/in/Kami-Budge/">Contact me on LinkedIn!</a></h2>
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>Projects:</h2>
 
-- [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000612244/6he3u8pvev)
-
-- ITILv4 Certificate Number: GR671678034KB
-
-<h2>👨‍💻 Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Child Height Prediction Machine Learning Tool](https://colab.research.google.com/drive/1O6ompaNgPrhhIUQXDWChUQmo7BsxLw8L?usp=sharing) (Python, Jupyter Notebook, Google Colab, Pandas, NumPy, Scikit-learn, Matplotlib)<br />
+- [Package Delivery Logistics Program](https://github.com/KBudge/PackageLogistics.git) (IntelliJ, Python) <br />
+- [DVD Rental Database Management Code](https://github.com/KBudge/dvdDataManagement.git) (SQL, PostgreSQL)<br />
 
 
+<h2>Certifications:</h2>
 
+- [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000612244/6he3u8pvev) <br />
+<img src="https://imgur.com/PqjR1V2.png" height="10%" width="20%" alt="Linux Essentials Certification"/>
+- ITILv4 Certificate Number: GR671678034KB  <br/>
+<img src="https://imgur.com/YzmURQQ.png" height="10%" width="20%" alt="ITILv4"/>
+<br />
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<!--
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
+-->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
