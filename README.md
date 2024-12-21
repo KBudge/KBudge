@@ -3,7 +3,7 @@
   
   <h2><a href="https://www.linkedin.com/in/Kami-Budge/">Contact me on LinkedIn!</a></h2>
 
-<h2>Projects:</h2>
+<h2>Programming Projects:</h2>
 
 - [Child Height Prediction Machine Learning Tool](https://colab.research.google.com/drive/1O6ompaNgPrhhIUQXDWChUQmo7BsxLw8L?usp=sharing) (Python, Jupyter Notebook, Google Colab, Pandas, NumPy, Scikit-learn, Matplotlib)<br />
 - [Package Delivery Logistics Program](https://github.com/KBudge/PackageLogistics.git) (IntelliJ, Python) <br />
